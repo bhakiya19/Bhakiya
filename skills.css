@@ -1,0 +1,226 @@
+.skills-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.skills-skills {
+  width: 100%;
+  height: 1008px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(169deg, rgba(210, 80, 231, 1) 0%, rgba(83, 186, 200, 1) 100%);
+}
+.skills-frame8 {
+  top: 17px;
+  left: 225px;
+  width: 124px;
+  height: 58px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 32px;
+  background-color: rgba(202, 48, 104, 1);
+}
+.skills-text {
+  left: 28px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.skills-vector {
+  top: 30px;
+  left: 43px;
+  width: 15px;
+  height: 16px;
+  position: absolute;
+}
+.skills-text02 {
+  top: 43px;
+  left: 94px;
+  color: rgba(255, 255, 255, 1);
+  width: 172px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.skills-text04 {
+  top: 104px;
+  left: 18px;
+  color: rgba(255, 255, 255, 1);
+  width: 260px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.skills-rectangle1 {
+  top: 528px;
+  left: 130px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-radius: 27px;
+  background-color:blue;
+}
+.skills-rectangle5 {
+  top: 428px;
+  left: 8px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-radius: 27px;
+  background-color: blue;
+}
+.skills-text06 {
+  top: 447px;
+  left: 18px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.skills-rectangle2 {
+  top: 428px;
+  left: 245px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-radius: 27px;
+  background-color: blue;
+}
+.skills-rectangle3 {
+  top: 628px;
+  left: 10px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-radius: 27px;
+  background-color: blue;
+}
+.skills-rectangle4 {
+  top: 627px;
+  left: 242px;
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  border-radius: 27px;
+  background-color: blue;
+}
+.skills-languagepython {
+  top: 652px;
+  left: 266px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.skills-languagehtml5 {
+  top: 478px;
+  left: 267px;
+  width: 50px;
+  height: 50px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.skills-vector1 {
+  top: 459px;
+  left: 278px;
+  width: 33px;
+  height: 37px;
+  position: absolute;
+}
+.skills-languagecss3 {
+  top: 653px;
+  left: 35px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.skills-languagejavascript {
+  top: 553px;
+  left: 155px;
+  width: 50px;
+  height: 50px;
+  position: absolute;
+}
+.skills-text08 {
+  top: 164px;
+  left: 4px;
+  color: rgba(255, 255, 255, 1);
+  width: 360px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.skills-frame18 {
+  gap: 10px;
+  top: 735px;
+  left: 126px;
+  width: 104px;
+  height: 42px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 20px;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.skills-text10 {
+  color: rgba(38, 44, 193, 1);
+  height: auto;
+  font-size: 16px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
