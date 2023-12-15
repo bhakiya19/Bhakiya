@@ -18,7 +18,7 @@
 }
 .area-frame8 {
   top: 24px;
-  left: 217px;
+  left: 267px;
   width: 124px;
   height: 52px;
   display: flex;
@@ -44,7 +44,7 @@
   text-decoration: none;
 }
 .area-vector {
-  top: 51.366249084472656px;
+  top: 45.366249084472656px;
   left: 29px;
   width: 20px;
   height: 24px;
@@ -52,21 +52,21 @@
 }
 .area-rectangle6 {
   top: 162.28887939453125px;
-  left: 44px;
+  left: 78px;
   width: 250px;
   height: 250px;
   position: absolute;
 }
 .area-rectangle7 {
   top: 559px;
-  left: 44px;
+  left: 78px;
   width: 250px;
   height: 250px;
   position: absolute;
 }
 .area-rectangle8 {
   top: 968px;
-  left: 49px;
+  left: 78px;
   width: 250px;
   height: 250px;
   position: absolute;
@@ -74,7 +74,7 @@
 .area-frame13 {
   gap: 10px;
   top: 450px;
-  left: 64px;
+  left: 94px;
   width: 209px;
   display: flex;
   padding: 10px;
@@ -99,7 +99,7 @@
 .area-frame14 {
   gap: 10px;
   top: 846px;
-  left: 92px;
+  left: 124px;
   width: 153px;
   display: flex;
   padding: 10px;
@@ -124,7 +124,7 @@
 .area-frame15 {
   gap: 10px;
   top: 1268px;
-  left: 44px;
+  left: 60px;
   width: 286px;
   display: flex;
   padding: 10px;
@@ -148,7 +148,7 @@
 }
 .area-text08 {
   top: 76px;
-  left: 28px;
+  left: 58px;
   color: rgba(255, 255, 255, 1);
   width: 332px;
   height: auto;

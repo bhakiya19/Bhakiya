@@ -18,7 +18,7 @@
 }
 .skills-frame8 {
   top: 17px;
-  left: 225px;
+  left: 270px;
   width: 124px;
   height: 58px;
   display: flex;
@@ -45,14 +45,14 @@
 }
 .skills-vector {
   top: 30px;
-  left: 43px;
+  left: 25px;
   width: 15px;
   height: 16px;
   position: absolute;
 }
 .skills-text02 {
   top: 43px;
-  left: 94px;
+  left: 134px;
   color: rgba(255, 255, 255, 1);
   width: 172px;
   height: auto;
@@ -68,7 +68,7 @@
 }
 .skills-text04 {
   top: 104px;
-  left: 18px;
+  left: 60px;
   color: rgba(255, 255, 255, 1);
   width: 260px;
   height: auto;
@@ -84,7 +84,7 @@
 }
 .skills-rectangle1 {
   top: 528px;
-  left: 130px;
+  left: 140px;
   width: 100px;
   height: 100px;
   position: absolute;
@@ -93,7 +93,7 @@
 }
 .skills-rectangle5 {
   top: 428px;
-  left: 8px;
+  left: 18px;
   width: 100px;
   height: 100px;
   position: absolute;
@@ -102,7 +102,7 @@
 }
 .skills-text06 {
   top: 447px;
-  left: 18px;
+  left: 28px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -117,7 +117,7 @@
 }
 .skills-rectangle2 {
   top: 428px;
-  left: 245px;
+  left: 272px;
   width: 100px;
   height: 100px;
   position: absolute;
@@ -126,7 +126,7 @@
 }
 .skills-rectangle3 {
   top: 628px;
-  left: 10px;
+  left: 20px;
   width: 100px;
   height: 100px;
   position: absolute;
@@ -135,7 +135,7 @@
 }
 .skills-rectangle4 {
   top: 627px;
-  left: 242px;
+  left: 272px;
   width: 100px;
   height: 100px;
   position: absolute;
@@ -144,7 +144,7 @@
 }
 .skills-languagepython {
   top: 652px;
-  left: 266px;
+  left: 293px;
   width: 50px;
   height: 50px;
   position: absolute;
@@ -162,28 +162,28 @@
 }
 .skills-vector1 {
   top: 459px;
-  left: 278px;
+  left: 305px;
   width: 33px;
   height: 37px;
   position: absolute;
 }
 .skills-languagecss3 {
   top: 653px;
-  left: 35px;
+  left: 45px;
   width: 50px;
   height: 50px;
   position: absolute;
 }
 .skills-languagejavascript {
   top: 553px;
-  left: 155px;
+  left: 165px;
   width: 50px;
   height: 50px;
   position: absolute;
 }
 .skills-text08 {
   top: 164px;
-  left: 4px;
+  left: 25px;
   color: rgba(255, 255, 255, 1);
   width: 360px;
   height: auto;
@@ -200,7 +200,7 @@
 .skills-frame18 {
   gap: 10px;
   top: 735px;
-  left: 126px;
+  left: 146px;
   width: 104px;
   height: 42px;
   display: flex;

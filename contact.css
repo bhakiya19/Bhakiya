@@ -8,7 +8,7 @@
 }
 .contact-contact {
   width: 100%;
-  height: 1016px;
+  height: 895px;
   display: flex;
   overflow: hidden;
   position: relative;
@@ -17,8 +17,8 @@
   background-image: linear-gradient(180deg, rgba(210, 80, 232, 1) 0%, rgba(90, 239, 230, 1) 100%);
 }
 .contact-frame8 {
-  top: 18px;
-  left: 218px;
+  top: 25px;
+  left: 268px;
   width: 124px;
   height: 58px;
   display: flex;
@@ -51,8 +51,8 @@
   position: absolute;
 }
 .contact-text2 {
-  top: 86px;
-  left: 20px;
+  top: 150px;
+  left: 40px;
   color: rgba(255, 255, 255, 1);
   width: 354px;
   height: auto;
@@ -75,14 +75,14 @@
 }
 .contact-vector1 {
   top: 282px;
-  left: 139px;
+  left: 175px;
   width: 50px;
   height: 50px;
   position: absolute;
 }
 .contact-instagram {
   top: 282px;
-  left: 246px;
+  left: 320px;
   width: 50px;
   height: 50px;
   position: absolute;
@@ -90,7 +90,7 @@
 .contact-frame16 {
   gap: 10px;
   top: 400px;
-  left: 90px;
+  left: 135px;
   width: 130px;
   height: 50px;
   display: flex;

@@ -8,7 +8,7 @@
 }
 .home-home {
   width: 100%;
-  height: 994px;
+  height: 898px;
   display: flex;
   overflow: hidden;
   position: relative;
@@ -17,8 +17,8 @@
   background-color: rgba(113, 33, 120, 1);
 }
 .home-ellipse3 {
-  top: 77px;
-  left: 102px;
+  top: 87px;
+  left: 132px;
   width: 157px;
   height: 165px;
   position: absolute;
@@ -38,8 +38,8 @@
   text-decoration: none;
 }
 .home-text02 {
-  top: 274px;
-  left: 28px;
+  top: 295px;
+  left: 48px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -53,8 +53,8 @@
   text-decoration: none;
 }
 .home-text04 {
-  top: 248px;
-  left: 31px;
+  top: 258px;
+  left: 51px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -68,8 +68,8 @@
   text-decoration: none;
 }
 .home-text06 {
-  top: 315px;
-  left: 28px;
+  top: 340px;
+  left: 48px;
   color: rgba(255, 255, 255, 1);
   height: auto;
   position: absolute;
@@ -84,7 +84,7 @@
 }
 .home-frame4 {
   top: 17px;
-  left: 258px;
+  left: 318px;
   width: 78px;
   height: 49px;
   display: flex;
@@ -112,8 +112,8 @@
   text-decoration: none;
 }
 .home-frame3 {
-  top: 719px;
-  left: 97px;
+  top: 749px;
+  left: 117px;
   width: 161px;
   height: 49px;
   display: flex;
@@ -142,8 +142,8 @@
   text-decoration: none;
 }
 .home-frame17 {
-  top: 313px;
-  left: 126px;
+  top: 340px;
+  left: 146px;
   width: 205px;
   height: 56px;
   display: flex;
@@ -186,8 +186,8 @@
   from{width: 0%;}
 }
 .home-text14 {
-  top: 375px;
-  left: 26px;
+  top: 395px;
+  left: 46px;
   color: rgba(255, 255, 255, 1);
   width: 327px;
   height: auto;
